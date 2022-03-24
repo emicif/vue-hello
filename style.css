@@ -1,0 +1,12 @@
+/* generics */
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+.text-property {
+  text-align: center;
+  padding: 50px;
+  font-size: 70px;
+}
